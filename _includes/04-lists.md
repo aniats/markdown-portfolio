@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+:sparkles: Travelling
+:sparkles: Foreign Languages
+:sparkles: Financial markets
