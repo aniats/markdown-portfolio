@@ -1,3 +1,3 @@
-:sparkles: Travelling
-:sparkles: Foreign Languages
-:sparkles: Financial markets
+- :sparkles: Travelling
+- :sparkles: Foreign Languages
+- :sparkles: Financial markets
